@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.rollbar:rollbar-android:1.7.5@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rollbar-android-1.7.5.aar/37a2a920817c91c4bcd5a23745c2461c/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rollbar-android-1.7.5.aar/37a2a920817c91c4bcd5a23745c2461c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rollbar-android-1.7.5.aar/37a2a920817c91c4bcd5a23745c2461c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rollbar/rollbar-android/1.7.5/ecdf0f087e393c8262727450836218a18df509aa/rollbar-android-1.7.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
