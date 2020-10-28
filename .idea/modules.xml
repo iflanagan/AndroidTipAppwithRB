@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-tip-calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/android-tip-calculator.iml" group="android-tip-calculator" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="android-tip-calculator/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidTipAppwithRB.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidTipAppwithRB.iml" group="AndroidTipAppwithRB" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="AndroidTipAppwithRB/app" />
     </modules>
   </component>
 </project>

@@ -17,6 +17,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <meta-data android:name="com.rollbar.android.ACCESS_TOKEN" android:value="<post_client_item>" />
+        <!--<meta-data android:name="com.rollbar.android.ACCESS_TOKEN" android:value="<post_client_item>" />-->
     </application>
 </manifest>
