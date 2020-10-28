@@ -45,8 +45,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        /*
         Rollbar.init(this);
         Rollbar.instance().error(new Exception("This is a test error From Ian's android project")); //remove this after initial testing
+        */
 
         setContentView(R.layout.activity_main);
 
@@ -87,12 +89,15 @@ public class MainActivity extends AppCompatActivity {
 
     private void resetBill() {
 
+        /*
         Rollbar.instance().error(new RuntimeException("Major issue with resetBill() method"));
        // throws an exception to be sent to rollbar
       throw new RuntimeException();
+      */
 
 
         // comment the lines in and comment line 84 out to fix the problem
+         throw new RuntimeException();
        /* tipTextView.setText(currencyFormat.format(0));
         totalTextView.setText(currencyFormat.format(0));*/
     }
